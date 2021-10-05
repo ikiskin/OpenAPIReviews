@@ -1,7 +1,7 @@
 # OpenAPIReviews
 ### NeurIPS 2021 Dataset and Benchmark Track Round 2
 
-This colab notebook supports OpenReview API review processes. This particular notebook is using the API for NeurIPS 2021 Dataset and Benchmark Track (rounds 1 and 2).
+This [colab notebook](https://github.com/ikiskin/OpenAPIReviews/blob/master/NeurIPSOpenReviewDatasetAndBenchmarksRound2.ipynb) supports OpenReview API review processes. This particular notebook is using the API for NeurIPS 2021 Dataset and Benchmark Track (rounds 1 and 2).
 
 The invitation code for it is `NeurIPS.cc/2021/Track/Datasets_and_Benchmarks/Round2/`.
 
