@@ -21,6 +21,10 @@ Some basic summary statistics:
 
 * Total number of submissions (not withdrawn): 254
 
-If you are the original author of `ICLRdata2020.ipynb`, please contact me so I can give appropriate credit: I cannot find the original link to the notebook.
+### Credit to
+
+* The notebook is based heavily on the [openreview-py](https://github.com/openreview/openreview-py) client, be sure to check it out for many more comprehensive options and general instructions for connecting to arbitrary venues.
+
+* If you are the original author of `ICLRdata2020.ipynb`, please contact me so I can give appropriate credit: I cannot find the original link to the notebook.
 
 Enjoy responsibly!
